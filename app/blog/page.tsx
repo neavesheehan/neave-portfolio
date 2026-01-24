@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/blog';
+import Newsletter from '@/components/Newsletter';
 
 export const metadata = {
   title: 'Blog | Neave Sheehan',
@@ -57,6 +58,7 @@ export default function BlogPage() {
           </div>
         )}
       </div>
+      <Newsletter />
     </div>
   );
 }
