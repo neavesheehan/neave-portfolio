@@ -26,7 +26,7 @@ export default function Hero() {
                 href="mailto:neavesheehan@byneave.com"
                 className="bg-brand-pink text-white px-8 py-4 rounded-full font-semibold hover:bg-pink-600 transition-all duration-300 text-center shadow-lg hover:shadow-xl transform hover:-translate-y-1"
               >
-                Hire Me
+                Email Me
               </a>
               <a
                 href="/Neave-Sheehan-CV.pdf"
