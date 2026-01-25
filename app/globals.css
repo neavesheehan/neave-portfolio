@@ -21,6 +21,13 @@
   .prose p + p {
     margin-top: 1.25em;
   }
+  
+  /* Make blog post headings extra bold */
+  .prose h2 {
+    font-weight: 700;
+    margin-top: 2em;
+    margin-bottom: 1em;
+  }
 }
 
 @layer utilities {
