@@ -60,6 +60,12 @@ export function getPostBySlug(slug: string): BlogPost | null {
 }
 
 export async function markdownToHtml(markdown: string): Promise<string> {
+  // Configure marked to properly handle paragraph breaks
+  marked.setOptions({
+    breaks: false, // Don't convert single line breaks to <br>
+    gfm: true, // Enable GitHub Flavored Markdown
+  });
+  
   const result = await marked(markdown);
   return result;
 }

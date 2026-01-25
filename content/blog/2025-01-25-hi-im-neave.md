@@ -4,8 +4,6 @@ date: "2025-01-25"
 excerpt: "An introduction to who I am, what I do, and why I'm starting this blog. Spoiler: it involves dashboards, AI, and making compliance data less boring."
 ---
 
-![Welcome banner](/images/blog-welcome.jpg)
-
 If you've landed here, you're probably wondering who I am and why I've decided to add another voice to the internet. Fair question.
 
 ## What I Do
