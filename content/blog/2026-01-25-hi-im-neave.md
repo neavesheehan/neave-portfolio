@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm Neave!"
-date: "2025-01-25"
+date: "2026-01-25"
 excerpt: "An introduction to who I am, what I do, and why I'm starting this blog. Spoiler: it involves dashboards, AI, and making compliance data less boring."
 ---
 

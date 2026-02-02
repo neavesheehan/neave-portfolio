@@ -1,6 +1,6 @@
 ---
 title: "What Advertising Psychology Taught Me About Building Better Dashboards"
-date: "2025-01-29"
+date: "2026-01-29"
 excerpt: "When people think about dashboards, they usually think logic. Numbers. Accuracy. Filters. KPIs. What they don't think about is psychology. Or branding. Or the fact that dashboards influence behaviour in the same way adverts do."
 ---
 

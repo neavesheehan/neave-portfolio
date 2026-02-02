@@ -1,6 +1,6 @@
 ---
 title: "Why Claude Is Beating Other AIs at Work Right Now"
-date: "2025-02-02"
+date: "2026-02-02"
 excerpt: "For the last year, the AI conversation has been stuck on the same question: Which model is better? But a quiet update this week exposed why that question is increasingly the wrong one and why Claude is starting to pull ahead in real workplace use."
 ---
 

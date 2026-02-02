@@ -1,6 +1,6 @@
 ---
 title: "This Week in AI: Everyone's Talking About 'AI Agents' Here's What I Actually Think"
-date: "2025-01-27"
+date: "2026-01-27"
 excerpt: "If you've been on LinkedIn for more than five minutes recently, you've probably been told that AI agents are about to replace entire teams. I don't buy that. But I do think something genuinely useful has changed."
 ---
 
