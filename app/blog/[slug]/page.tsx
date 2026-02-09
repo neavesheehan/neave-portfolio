@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getAllPosts, getPostBySlug, markdownToHtml } from '@/lib/blog';
+import Newsletter from '@/components/Newsletter';
 
 export async function generateStaticParams() {
   const posts = getAllPosts();
@@ -74,6 +75,8 @@ export default async function BlogPost({ params }: { params: { slug: string } })
           dangerouslySetInnerHTML={{ __html: htmlContent }}
         />
       </article>
+
+      <Newsletter />
     </div>
   );
 }
