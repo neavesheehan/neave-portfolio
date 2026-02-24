@@ -27,36 +27,36 @@ export default function Navigation() {
           </Link>
           
           <div className="hidden md:flex items-center gap-8">
-            <a 
-              href="#experience" 
-              className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
-            >
-              Experience
-            </a>
-            <a 
-              href="#portfolio" 
-              className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
-            >
-              Portfolio
-            </a>
-            <a 
-              href="#testimonials" 
-              className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
-            >
-              Testimonials
-            </a>
-            <Link 
-              href="/blog" 
-              className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
-            >
-              Blog
-            </Link>
-            <a 
-              href="#contact" 
-              className="bg-brand-pink text-white px-6 py-2 rounded-full hover:bg-pink-600 transition-colors font-medium"
-            >
-              Contact
-            </a>
+           <a 
+  href="/#experience" 
+  className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
+>
+  Experience
+</a>
+<a 
+  href="/#portfolio" 
+  className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
+>
+  Portfolio
+</a>
+<a 
+  href="/#testimonials" 
+  className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
+>
+  Testimonials
+</a>
+<Link 
+  href="/blog" 
+  className="text-brand-navy hover:text-brand-pink transition-colors font-medium"
+>
+  Blog
+</Link>
+<a 
+  href="/#contact" 
+  className="bg-brand-pink text-white px-6 py-2 rounded-full hover:bg-pink-600 transition-colors font-medium"
+>
+  Contact
+</a>
           </div>
         </div>
       </div>
